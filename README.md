@@ -5,7 +5,7 @@
 ### Clone the Repository:
 
 cd ~/ros2_ws/src  
-git clone [URL to this repository]
+git clone https://github.com/aronfesus/Turtlesim.git
 
 ### Build the Package:
 
